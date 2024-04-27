@@ -32,8 +32,11 @@ int main()
 {
     int nArr[] = {1,2,3,4,5};
     std::string sArr[] = {"abc", "def", "ghi"};
+    double dArr[] = {1.0,2.0,4.5};
+
     display(nArr, 5);
     display(sArr, 3);
+    display(dArr, 3);
 
     return 0;
 }
