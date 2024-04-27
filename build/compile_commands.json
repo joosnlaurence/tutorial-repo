@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/JComp/Desktop/VS Code/COP 3337 Review/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\this_best_test_yarr.dir\\base_main.cpp.obj -c \"C:\\Users\\JComp\\Desktop\\VS Code\\COP 3337 Review\\base_main.cpp\"",
+  "file": "C:\\Users\\JComp\\Desktop\\VS Code\\COP 3337 Review\\base_main.cpp",
+  "output": "CMakeFiles\\this_best_test_yarr.dir\\base_main.cpp.obj"
+},
+{
+  "directory": "C:/Users/JComp/Desktop/VS Code/COP 3337 Review/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\this_best_test_yarr.dir\\A.cpp.obj -c \"C:\\Users\\JComp\\Desktop\\VS Code\\COP 3337 Review\\A.cpp\"",
+  "file": "C:\\Users\\JComp\\Desktop\\VS Code\\COP 3337 Review\\A.cpp",
+  "output": "CMakeFiles\\this_best_test_yarr.dir\\A.cpp.obj"
+}
+]
